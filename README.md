@@ -59,9 +59,9 @@ Click "Save QR" to store the image as a PNG file.
 Example
 Input text/URL:
 
-arduino
 Copy code
-https://example.com
+[https://example.com] (https://youtu.be/xvFZjo5PgG0?si=6uNmcQebihM5pcQ5)
+
 Options chosen:
 
 Style: Rounded
