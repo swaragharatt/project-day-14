@@ -1,7 +1,7 @@
 # project-day-14
 # QR Code Generator
 
-A **Python desktop app** that lets you generate and customize QR codes with **zero coding required**.  
+A **Python desktop tool** that lets you generate and customize QR codes with **zero coding required**.  
 Built with a sleek dark theme, this app makes QR code creation **simple, visually appealing, and beginner-friendly**.
 
 ---
@@ -60,7 +60,7 @@ Example
 Input text/URL:
 
 Copy code
-[https://example.com] (https://youtu.be/xvFZjo5PgG0?si=6uNmcQebihM5pcQ5)
+(https://youtu.be/xvFZjo5PgG0?si=6uNmcQebihM5pcQ5)
 
 Options chosen:
 
